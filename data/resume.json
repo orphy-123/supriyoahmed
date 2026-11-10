@@ -1,0 +1,29 @@
+{
+  "name": "Dr. Supriyo Shafkat Ahmed",
+  "role": "Data Lead",
+  "organisation": "Australian Plant Phenomics Network, The Australian National University",
+  "location": "Canberra, Australia",
+  "email": "supriyoshafkat.ahmed@anu.edu.au",
+  "phone": "+61480180010",
+  "linkedin": "https://www.linkedin.com/in/supriyoahmed",
+  "cv": "../assets/Supriyo_Shafkat_Ahmed_CV.docx",
+  "profileImage": "../assets/profile.jpg",
+  "education": [
+    {
+      "qualification": "PhD, Machine Learning",
+      "institution": "UNSW Canberra",
+      "year": "2023"
+    },
+    {
+      "qualification": "MSc, Electrical and Electronic Engineering",
+      "institution": "BRAC University",
+      "year": "2011-2012"
+    },
+    {
+      "qualification": "BSc, Electronics and Communication Engineering",
+      "institution": "BRAC University",
+      "year": "2005-2009"
+    }
+  ],
+  "publicationsNote": "The supplied CV mentions high-quality publications from doctoral research but does not include individual citation details."
+}
